@@ -5,9 +5,8 @@ Deployed URL: https://user-dasboard-with-popup-drawer.netlify.app/
 A simple user dashboard built with React, TypeScript and Vite. The app shows a list of users, supports viewing user details in a drawer, and includes a small local store for state management.
 
 **Features**
-- List users with pagination/controls (if available)
+- List users with pagination
 - View user details in a drawer
-- Add / edit / delete user stubs (UI only depending on API)
 - Lightweight local state store
 
 **Tech stack**
